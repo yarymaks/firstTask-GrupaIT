@@ -1,0 +1,28 @@
+.btn {
+  background-color: yellow;
+  color: red;
+  border-color: transparent;
+  padding: 15px 30px;
+  border-radius: 20px;
+  transition: all 0.5s ease-out;
+}
+
+.btn:hover {
+  background-color: blue;
+  color: white;
+  transition: all 0.5s ease-out;
+}
+
+#tableContent {
+  margin-top: 25px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
